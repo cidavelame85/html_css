@@ -1,7 +1,7 @@
 # HTML 5 e CSS 3
 
-[![HTML] https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white> 
-https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+<img aligh="centeer" alt="html" height="100" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> <img aligh="LEFT" alt="css" height="100" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 
-Neste repositório vou disponibilizar todos os meus exercícios de Html e Css comentados, acreditos que códigos comentados ajuda as pessoas a entender os meus programas e também me ajuda a treinar como fazer uma documentação de um programa. 😜
+Neste repositório vou disponibilizar todos os meus exercícios de  Html e Css comentados, acreditos que códigos comentados ajuda as pessoas a entender os meus programas e também me ajuda a 
+revisar e já treinar como construir a documentação de um programa. 😜
 
