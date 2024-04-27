@@ -1,7 +1,7 @@
-# HTML 5 e CSS 3
 
-<img aligh="centeer" alt="html" height="100" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> <img aligh="LEFT" alt="css" height="100" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+## 🟡 Neste repositório vou registrar todo o meu aprendizado com o  <img aligh="centeer" alt="html" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> e <img aligh="LEFT" alt="css" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> .
 
-Neste repositório vou disponibilizar todos os meus exercícios de  Html e Css comentados, acreditos que códigos comentados ajuda as pessoas a entender os meus programas e também me ajuda a 
-revisar e já treinar como construir a documentação de um programa. 😜
+
+
+<img  width="1050" src="https://th.bing.com/th/id/OIG4.puV_a9srQUAGhStTDmIG?w=1024&h=1024&rs=1&pid=ImgDetMain" alt="imagem computador ">
 
