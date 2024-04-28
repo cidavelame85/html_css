@@ -1,5 +1,5 @@
 
-## 🟡 Neste repositório vou registrar todo o meu aprendizado com o  <img aligh="centeer" alt="html" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> e <img aligh="LEFT" alt="css" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> .
+### 🟡 Neste repositório vou registrar todo o meu aprendizado com o  <img aligh="centeer" alt="html" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> e <img aligh="LEFT" alt="css" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> .
 
 
 
